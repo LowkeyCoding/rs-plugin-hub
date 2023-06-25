@@ -1,4 +1,5 @@
 # rs-plugin-hub
+[Look here for more info](https://github.com/Arnuh/RuneLiteHijack)
 
 Description of each property for each plugin in plugins.json:
 
