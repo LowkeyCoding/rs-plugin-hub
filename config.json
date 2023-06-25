@@ -1,0 +1,14 @@
+[
+    {
+      "internalName": "example-1.0-SNAPSHOT",
+      "hash": "c27512b39dc5cd1543e1990daf4ba89238bd35febcb9eb57be9b54c0c5ce9f47",
+      "size": 2322,
+      "plugins": [
+        "com.example.ExamplePlugin"
+      ],
+      "displayName": "Example",
+      "description": "",
+      "provider": "lowkeycoding"
+    }
+  ]
+  
