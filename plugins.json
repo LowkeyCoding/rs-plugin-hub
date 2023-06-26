@@ -1,10 +1,10 @@
 [
     {
-      "internalName": "example-1.0-SNAPSHOT",
-      "hash": "c27512b39dc5cd1543e1990daf4ba89238bd35febcb9eb57be9b54c0c5ce9f47",
-      "size": 2322,
+      "internalName": "Wintertodt",
+      "hash": "8b05c869ca9dec674dc76894f9b09855cd6074e805b6edac0b17c5fbf2edf126",
+      "size": 16950,
       "plugins": [
-        "com.example.ExamplePlugin"
+        "dev.walsted.Wintertodt"
       ],
       "displayName": "Example",
       "description": "",
