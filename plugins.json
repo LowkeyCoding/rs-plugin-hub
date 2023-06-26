@@ -4,7 +4,7 @@
       "hash": "5f214a9764d747b0153fad59a1cc66198133dbb2361b9d844d9bd83cdf4488b0",
       "size": 16954,
       "plugins": [
-        "dev.walsted.wintertodt"
+        "dev.walsted.wintertodt.WintertodtExPlugin"
       ],
       "displayName": "WintertodtEx",
       "description": "very good description",
