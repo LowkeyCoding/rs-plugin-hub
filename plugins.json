@@ -1,10 +1,10 @@
 [
     {
       "internalName": "WintertodtEx",
-      "hash": "e3852dbddf11409f54788a90bd6baaa839d1ace4fa75960140592eb85cb04f8f",
-      "size": 17722,
+      "hash": "10ad72286c0565271c883890ee8b6e338b2ac69b489353ce2dd07b21a1ca6ea4",
+      "size": 17723,
       "displayName": "WintertodtEx",
-      "description": "very good description 2",
+      "description": "very good description",
       "plugins": [
         "dev.walsted.wintertodt.WintertodtExPlugin"
       ],
