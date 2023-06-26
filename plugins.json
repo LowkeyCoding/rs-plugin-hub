@@ -8,7 +8,7 @@
       "plugins": [
         "dev.walsted.wintertodt.WintertodtExPlugin"
       ],
-      "provider": "lowkeycoding"
+      "provider": "plugins/lowkeycoding"
     }
 ]
   
