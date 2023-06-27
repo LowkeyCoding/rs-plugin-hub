@@ -1,10 +1,10 @@
 [
     {
       "internalName": "WintertodtEx",
-      "hash": "193fc8bf2ed59779eb6d5e6f1e90050f2eb9c45ab3e5c2f576fc784e799bbc34",
-      "size": 17998,
+      "hash": "884fa1288e9a86e7994d49701e979d69efa078b7257f3125637868d65916a03e",
+      "size": 18249,
       "displayName": "WintertodtEx",
-      "description": "very good description 3",
+      "description": "Is this considered torture?",
       "plugins": [
         "dev.walsted.wintertodt.WintertodtExPlugin"
       ],
