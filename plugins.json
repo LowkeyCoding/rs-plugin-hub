@@ -12,10 +12,10 @@
     },
     {
       "internalName": "WintertodtExBeta",
-      "hash": "da5e8d1a45bed00c65185ba651cc6239b540d3c9a95091de4ab71124009a74de",
-      "size": 23509,
+      "hash": "8144c134e829f887fdbc22afb1534daf4fffc6b9200c17d409b487054c0baaa3",
+      "size": 23767,
       "displayName": "WintertodtEx Beta",
-      "description": "Is this considered torture? Beta edition 17",
+      "description": "Is this considered torture? Beta edition (Now with game untill goal overlay!)",
       "plugins": [
         "dev.walsted.wintertodt.WintertodtExPlugin"
       ],
