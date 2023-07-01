@@ -12,10 +12,10 @@
     },
     {
       "internalName": "WintertodtExBeta",
-      "hash": "4759d890e9cc3d69bb5bf83e427390a1f7b5a5cf11557fdbbc6c2d3fa0892520",
-      "size": 23397,
+      "hash": "172d3c280157af7111579bf6d583c2aef596904f86a2dee0eb47265b26349d2e",
+      "size": 23494,
       "displayName": "WintertodtEx Beta",
-      "description": "Is this considered torture? Beta edition 13",
+      "description": "Is this considered torture? Beta edition 14",
       "plugins": [
         "dev.walsted.wintertodt.WintertodtExPlugin"
       ],
