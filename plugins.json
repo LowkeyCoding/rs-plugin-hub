@@ -9,6 +9,17 @@
         "dev.walsted.wintertodt.WintertodtExPlugin"
       ],
       "provider": "plugins/lowkeycoding"
+    },
+    {
+      "internalName": "WintertodtExBeta",
+      "hash": "81eef1ab3b4e9cefc199eec994f18883a8429c7c306c81a3399e9015545657c8",
+      "size": 23514,
+      "displayName": "WintertodtEx Beta",
+      "description": "Is this considered torture? Beta edition",
+      "plugins": [
+        "dev.walsted.wintertodt.WintertodtExPlugin"
+      ],
+      "provider": "plugins/lowkeycoding"
     }
 ]
   
