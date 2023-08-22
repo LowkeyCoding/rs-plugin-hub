@@ -20,6 +20,17 @@
         "dev.walsted.wintertodt.WintertodtExPlugin"
       ],
       "provider": "plugins/lowkeycoding"
+    },
+    {
+      "internalName": "TTbog",
+      "hash": "4041bc3f388075fe1f3d4a209745458f9d0ef07f7a63201050334ce49e436749",
+      "size": 3276,
+      "displayName": "TT bog",
+      "description": "Helps solve the temple trekking bog room",
+      "plugins": [
+        "dev.walsted.bog.BogPlugin"
+      ],
+      "provider": "plugins/lowkeycoding"
     }
 ]
   
