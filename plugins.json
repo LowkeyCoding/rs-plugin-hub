@@ -22,11 +22,11 @@
       "provider": "plugins/lowkeycoding"
     },
     {
-      "internalName": "Bog",
-      "hash": "4041bc3f388075fe1f3d4a209745458f9d0ef07f7a63201050334ce49e436749",
-      "size": 3276,
+      "internalName": "bog-1.0-SNAPSHOT",
+      "hash": "240d02c8d10f577e7f8b98c0030c2daac4955e37b6e49a4917ff26469cc35a16",
+      "size": 3505,
       "displayName": "TT bog",
-      "description": "Helps solve the temple trekking bog room",
+      "description": "Helps solve the temple trekking bog room (2)",
       "plugins": [
         "dev.walsted.bog.BogPlugin"
       ],
