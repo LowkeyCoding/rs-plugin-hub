@@ -34,8 +34,8 @@
     },
     {
       "internalName": "goftr-1.1",
-      "hash": "50dc9fafc4326c65799813373a6576a4f790cb366fb112241e1ba51fff1748ba",
-      "size": 29146,
+      "hash": "4a028d88a5d0289e4bdfe0c0324cfd9428713f3004116692cd6690f34bb3a4b8",
+      "size": 29148,
       "displayName": "Guardians of the Rift helper",
       "description": "Displays useful information about the Guardians of the Rift",
       "plugins": [
