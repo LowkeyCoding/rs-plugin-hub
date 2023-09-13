@@ -31,6 +31,17 @@
         "dev.walsted.bog.BogPlugin"
       ],
       "provider": "plugins/lowkeycoding"
+    },
+    {
+      "internalName": "goftr-1.1",
+      "hash": "0e62abceca2fadd692e1ccf545bea176a149cbb0b78cd01577e6903176a6e81e",
+      "size": 28803,
+      "displayName": "Guardians of the Rift helper",
+      "description": "Displays useful information about the Guardians of the Rift",
+      "plugins": [
+        "com.datbear.GuardiansOfTheRiftHelperPlugin"
+      ],
+      "provider": "plugins/lowkeycoding"
     }
 ]
   
