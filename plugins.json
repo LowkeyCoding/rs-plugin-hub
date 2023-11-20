@@ -42,6 +42,17 @@
         "com.datbear.GuardiansOfTheRiftHelperPlugin"
       ],
       "provider": "plugins/lowkeycoding"
+    },
+    {
+      "internalName": "tasks-tracker-1.0",
+      "hash": "c2d14debee58dac68de79145fe6ee736fed506d187e3cab08a11def118ee7b01",
+      "size": 206053,
+      "displayName": "Leagues IV task helper",
+      "description": "A RuneLite plugin that provides a panel to track tasks & export for external services ",
+      "plugins": [
+        "net.reldo.taskstracker.TasksTrackerPlugin"
+      ],
+      "provider": "plugins/lowkeycoding"
     }
 ]
   
