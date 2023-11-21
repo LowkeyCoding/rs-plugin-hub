@@ -45,8 +45,8 @@
     },
     {
       "internalName": "tasks-tracker-1.0",
-      "hash": "50fa6264e530ef9ed10e3da3b600ceb37de01d6ec7688505bcc4f07768f29d28",
-      "size": 206053,
+      "hash": "1daf5e18975fbde88c44694f64b414075611f25262e3b5d696df2e44e52fc7c6",
+      "size": 204079,
       "displayName": "Leagues IV task helper",
       "description": "A RuneLite plugin that provides a panel to track tasks & export for external services ",
       "plugins": [
